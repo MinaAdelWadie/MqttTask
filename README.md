@@ -9,5 +9,5 @@
 
 
 
-#for testing the application i used https://api.cloudmqtt.com which represent the MQTT sever (brocker).
+#for testing the application i used https://www.cloudmqtt.com/ which represent the MQTT sever (brocker).
 #However you could see the result when you turnon/off any switch on the console but for reciving incomming message you should use brocker.
